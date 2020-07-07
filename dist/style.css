@@ -7573,6 +7573,10 @@ video {
   max-width: 640px;
 }
 
+.max-w-75pc{
+  max-width: 75%
+}
+
 .max-w-screen-md {
   max-width: 768px;
 }
@@ -7587,6 +7591,22 @@ video {
 
 .min-h-0 {
   min-height: 0;
+}
+
+.w-500{
+  max-width: 500px
+}
+
+.h-500{
+  max-height: 500px
+}
+
+.w-33pc{
+  max-width: 33.33%
+}
+
+.w-50pc{
+  width: 50%
 }
 
 .min-h-full {
